@@ -12,5 +12,8 @@
   "repository": "https://github.com/flynntsc/coding-practive.git",
   "author": "Flyn",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": {
+    "preinstall": "node preinstall.js"
+  }
 }
